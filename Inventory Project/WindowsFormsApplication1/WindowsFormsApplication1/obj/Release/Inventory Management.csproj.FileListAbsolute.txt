@@ -1,0 +1,17 @@
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Inventory.accdb
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.manifest
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.application
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.editInventoryForm.resources
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.viewInventoryForm.resources
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Inventory Management.csproj.GenerateResource.Cache
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Inventory Management.csproj.CoreCompileInputs.cache
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe.manifest
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.application
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Blank Blank\Desktop\Inventory Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Inventory Management.csprojResolveAssemblyReference.cache
